@@ -77,6 +77,7 @@ hr {
 .glyphicon-print {
   float: right;
   margin-right: 2rem;
+  margin-top: 2rem;
   cursor: pointer;
 }
 
