@@ -50,6 +50,8 @@ hr {
   background-color: transparent;
   text-decoration: none;
   display: block;
+  outline: none;
+  margin: auto;
   border: none;
   font-size: 3rem;
   color: rgb(0, 0, 186);
