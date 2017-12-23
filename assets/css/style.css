@@ -6,13 +6,14 @@ body {
 
 h1 {
   /* font-family: "Lobster"; */
-  color:#3b5e3a;
+  /* color:#3b5e3a; */
+  color:rgb(0, 169, 42);
   padding: 1rem;
   font-size: 5rem;
 }
 
 p.from {
-  color:#3b5e3a;
+  color:black;
 }
 
 hr {
